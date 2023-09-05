@@ -1,7 +1,9 @@
 # individual-assignment-js
 Tugas Javascript Bootcamp Fullstackc Developer (harisenin.com)
 Membuat game flappy bird sederhana menggunakan HTML, CSS, JS
+
 Demo: https://flappy-bird-taufiqoo.000webhostapp.com/
+(tekan spasi untuk jump)
 
 Tugas Javascript - Kak Rizal
 
